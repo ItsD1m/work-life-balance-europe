@@ -1,0 +1,28 @@
+city,city_el,country,country_el,iso2,global_rank,baseline_index,net_salary_usd,overworked_pct,vacations_taken,paid_parental_leave_days,right_to_disconnect
+Helsinki,Ελσίνκι,Finland,Φινλανδία,FI,1,100,3296.13,6,30,350,M
+Oslo,Όσλο,Norway,Νορβηγία,NO,2,96.5,4921.01,5.4,25,304,M
+Copenhagen,Κοπεγχάγη,Denmark,Δανία,DK,3,94.6,4832.96,5.4,28,364,M
+Stockholm,Στοκχόλμη,Sweden,Σουηδία,SE,4,93.7,3630.14,6.4,25,490,M
+Brussels,Βρυξέλλες,Belgium,Βέλγιο,BE,8,92.1,3399.11,8.4,24,361,S
+Paris,Παρίσι,France,Γαλλία,FR,9,91.8,3757.90,9.6,27,188,S
+Zurich,Ζυρίχη,Switzerland,Ελβετία,CH,10,91.8,8091.86,7.9,25,98,W
+Munich,Μόναχο,Germany,Γερμανία,DE,11,91.8,4072.38,5.4,26,467,W
+Berlin,Βερολίνο,Germany,Γερμανία,DE,12,91.7,3458.38,5.3,26,467,W
+Hamburg,Αμβούργο,Germany,Γερμανία,DE,13,91.5,3545.19,5.4,26,467,W
+Geneva,Γενεύη,Switzerland,Ελβετία,CH,15,90.6,7361.08,7.9,25,98,W
+Cologne,Κολωνία,Germany,Γερμανία,DE,16,90.3,3512.67,5.3,26,467,W
+Vienna,Βιέννη,Austria,Αυστρία,AT,17,89.5,3613.32,7.6,25,481,W
+Amsterdam,Άμστερνταμ,Netherlands,Ολλανδία,NL,18,89.1,4569.71,5.1,24,115,W
+Lisbon,Λισαβόνα,Portugal,Πορτογαλία,PT,19,88.9,1719.14,9.1,22,367,S
+Luxembourg,Λουξεμβούργο,Luxembourg,Λουξεμβούργο,LU,20,88.2,6002.09,5.6,26,110,M
+Madrid,Μαδρίτη,Spain,Ισπανία,ES,21,88,2527.33,7.2,30,127,RW
+Barcelona,Βαρκελώνη,Spain,Ισπανία,ES,23,87.4,2395.17,7.2,30,127,RW
+Basel,Βασιλεία,Switzerland,Ελβετία,CH,24,87,6540.51,8.9,25,98,W
+Dublin,Δουβλίνο,Ireland,Ιρλανδία,IE,25,86.7,3887.17,8.1,21,182,M
+Liverpool,Λίβερπουλ,United Kingdom,Ηνωμένο Βασίλειο,GB,26,84.4,3543.44,10.5,21,287,W
+Glasgow,Γλασκώβη,United Kingdom,Ηνωμένο Βασίλειο,GB,27,84.1,3593.89,10.3,21,287,W
+London,Λονδίνο,United Kingdom,Ηνωμένο Βασίλειο,GB,29,83.9,5222.45,10.7,21,287,W
+Manchester,Μάντσεστερ,United Kingdom,Ηνωμένο Βασίλειο,GB,31,82.4,3880.86,10.1,21,287,W
+Milan,Μιλάνο,Italy,Ιταλία,IT,32,81.8,2318.57,9.7,21,337,RW
+Athens,Αθήνα,Greece,Ελλάδα,GR,41,77,1250.77,11.7,20,119,RW
+Budapest,Βουδαπέστη,Hungary,Ουγγαρία,HU,52,74.4,1773.30,3.6,20,174,W
